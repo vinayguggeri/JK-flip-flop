@@ -55,3 +55,4 @@ The truth table of JK flip flop is shown below:<br />
 ### 7. Circuit Diagram in eSim
 The circuit diagram of JK flip flop using Mixed signals in eSim tool.<br />
 ![Screenshot (13)](https://user-images.githubusercontent.com/96101971/156823161-6d7e32e5-9721-480c-b3aa-cfafcdb55cdb.png)
+### 8. Verilog Code
