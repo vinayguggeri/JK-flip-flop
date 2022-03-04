@@ -25,4 +25,7 @@
 Flip flops are the electronic devices which consists of two stable states.These are sequential circuits since the output depends
 on both present input and past output.These circuits are basic memory storage elements.There are different kinds of flip flops,
 like SR flip flop, JK flip flop, D flip flop and T flip flop.The input and output to a JK flip flop are digital signals but the 
-main aim is to design and simulate JK flip flop using mixed signals i.e. by using both analog and digital signals.  
+main aim here is to design and simulate JK flip flop using mixed signals i.e. by using both analog and digital signals.  
+### 2. Reference Circuit Diagram
+![image](https://user-images.githubusercontent.com/96101971/156813610-83332660-f437-45dd-8c2f-720dc85cf4d7.png)
+
