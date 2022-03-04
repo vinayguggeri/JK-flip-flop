@@ -32,4 +32,13 @@ main aim here is to design and simulate JK flip flop using mixed signals i.e. by
 ### 3. Reference Waveforms
 ![image](https://user-images.githubusercontent.com/96101971/156813892-d6778544-87d1-48c4-920d-f2d59fe77bc7.png)
 ### 4. Circuit Details
-
+The JK flip flop was invented by Jack Kilby and hence the name JK flip flop.It is the most widely used flip flop. This flip
+flop is also called as universal flip flop.
+The sequential operation of JK flip flop is same as that of SR flip flop Except that the JK flip flop does not allow the invalid
+input state in which both the inputs are 0.
+The basic SR flip flop suffers from the following two problems:
+i)First, the condition S=R=0 must be avoided.
+ii)second,if the state of S or R changes its state while the input which is enabled is high, the correct latching action does not occur.
+Thus, to overcome these two drawbacks,JK flip flop was invented.
+The design of JK flip flop is same as that of SR flip flop but consists of a clock,extra two 3-input NAND gates.Here J=S and K=R 
+and with the third input of each NAND gate connected to the outputs at Q and Qbar.
