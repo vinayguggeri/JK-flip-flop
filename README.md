@@ -35,6 +35,7 @@ here is to design and simulate JK flip flop using mixed signals i.e. by using bo
 The JK flip flop was invented by Jack Kilby and hence the name JK flip flop.It is the most widely used flip flop.<br />
 This flipflop is also called as universal flip flop.The sequential operation of JK flip flop is same as that of<br />
 SR flip flop Except that the JK flip flop does not allow the invalid input state in which both the inputs are 0.<br />
+<br />
 The basic SR flip flop suffers from the following two problems:<br />
 i)First, the condition S=R=0 must be avoided.<br />
 ii)second,if the state of S or R changes its state while the input which is enabled is high, the correct latching<br />
