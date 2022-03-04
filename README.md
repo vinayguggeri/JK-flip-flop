@@ -44,10 +44,8 @@ action does not occur.<br />
 Thus, to overcome these two drawbacks,JK flip flop was invented.<br />
 The design of JK flip flop is same as that of SR flip flop but consists of a clock,two input AND gates are replaced <br />
 by two 3-input NAND gates.Here J=S and K=R and with the third input of each NAND gate connected to the outputs at Q and Qbar.<br />
-The cross-coupling of the SR flip-flop permits the previous invalid condition of S=R=1 to be used to produce the toggle action<br />
-as the two inputs are now interlocked.
+The cross-coupling of the SR flip-flop permits the previous invalid condition of S=R=1 to be used to produce the toggle action as the two inputs are now interlocked.<br />
 <br />
-
 At the input side of jk flip flop we use analog to digital converter(adc_bridge) and at the output side we use a digital to<br />
 analog converter(dac_bridge).In this way we can design JK flip flop in mixed signals.<br />
 ### 5. Truth Table
