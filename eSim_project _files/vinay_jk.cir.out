@@ -1,0 +1,32 @@
+* /home/vinaykumarg936/documents/vinay_jk/vinay_jk.cir
+
+* u4  net-_u4-pad1_ net-_u4-pad2_ net-_u4-pad3_ net-_u4-pad4_ net-_u4-pad5_ vinay_jk
+* u5  j k clk net-_u4-pad1_ net-_u4-pad2_ net-_u4-pad3_ adc_bridge_3
+* u6  net-_u4-pad4_ net-_u4-pad5_ q q_bar dac_bridge_2
+v1  j gnd pulse(5 0 1m 1m 1m 20 40)
+v2  k gnd pulse(5 0 1m 1m 1m 10 20)
+v3  clk gnd pulse(5 0 1m 1m 1m 1 2)
+* u7  q plot_v1
+* u8  q_bar plot_v1
+* u1  j plot_v1
+* u2  k plot_v1
+* u3  clk plot_v1
+a1 [net-_u4-pad1_ ] [net-_u4-pad2_ ] [net-_u4-pad3_ ] [net-_u4-pad4_ ] [net-_u4-pad5_ ] u4
+a2 [j k clk ] [net-_u4-pad1_ net-_u4-pad2_ net-_u4-pad3_ ] u5
+a3 [net-_u4-pad4_ net-_u4-pad5_ ] [q q_bar ] u6
+* Schematic Name:                             vinay_jk, NgSpice Name: vinay_jk
+.model u4 vinay_jk(rise_delay=1.0e-9 fall_delay=1.0e-9 input_load=1.0e-12 instance_id=1 ) 
+* Schematic Name:                             adc_bridge_3, NgSpice Name: adc_bridge
+.model u5 adc_bridge(in_low=1.0 in_high=2.0 rise_delay=1.0e-9 fall_delay=1.0e-9 ) 
+* Schematic Name:                             dac_bridge_2, NgSpice Name: dac_bridge
+.model u6 dac_bridge(out_low=0.0 out_high=5.0 out_undef=0.5 input_load=1.0e-12 t_rise=1.0e-9 t_fall=1.0e-9 ) 
+.tran 0.1e-00 40e-00 0e-00
+
+* Control Statements 
+.control
+run
+print allv > plot_data_v.txt
+print alli > plot_data_i.txt
+plot v(q)+6 v(q_bar) v(j)+18 v(k)+12 v(clk)+24
+.endc
+.end

@@ -1,0 +1,21 @@
+* /home/vinaykumarg936/Documents/vinay_jk/vinay_jk.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: Thu 03 Mar 2022 12:28:14 PM UTC
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+U4  Net-_U4-Pad1_ Net-_U4-Pad2_ Net-_U4-Pad3_ Net-_U4-Pad4_ Net-_U4-Pad5_ vinay_jk		
+U5  j k clk Net-_U4-Pad1_ Net-_U4-Pad2_ Net-_U4-Pad3_ adc_bridge_3		
+U6  Net-_U4-Pad4_ Net-_U4-Pad5_ q q_bar dac_bridge_2		
+v1  j GND pulse		
+v2  k GND pulse		
+v3  clk GND pulse		
+U7  q plot_v1		
+U8  q_bar plot_v1		
+U1  j plot_v1		
+U2  k plot_v1		
+U3  clk plot_v1		
+
+.end
