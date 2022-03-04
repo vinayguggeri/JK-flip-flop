@@ -52,3 +52,6 @@ analog converter(dac_bridge).In this way we can design JK flip flop in mixed sig
 The truth table of JK flip flop is shown below:<br />
 ![image](https://user-images.githubusercontent.com/96101971/156820419-de9ed47e-0551-4f14-aeed-bb83b7493cad.png)
 <br />
+### 7. Circuit Diagram in eSim
+The circuit diagram of JK flip flop using Mixed signals in eSim tool.<br />
+![Screenshot (13)](https://user-images.githubusercontent.com/96101971/156823161-6d7e32e5-9721-480c-b3aa-cfafcdb55cdb.png)
