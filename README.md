@@ -47,8 +47,10 @@ by two 3-input NAND gates.Here J=S and K=R and with the third input of each NAND
 The cross-coupling of the SR flip-flop permits the previous invalid condition of S=R=1 to be used to produce the toggle action<br />
 as the two inputs are now interlocked.
 <br />
+
+At the input side of jk flip flop we use analog to digital converter(adc_bridge) and at the output side we use a digital to<br />
+analog converter(dac_bridge).In this way we can design JK flip flop in mixed signals.<br />
+### 5. Truth Table
 The truth table of JK flip flop is shown below:<br />
 ![image](https://user-images.githubusercontent.com/96101971/156820419-de9ed47e-0551-4f14-aeed-bb83b7493cad.png)
 <br />
-At the input side of jk flip flop we use analog to digital converter(adc_bridge) and at the output side we use a digital to<br />
-analog converter(dac_bridge).In this way we can design JK flip flop in mixed signals.<br />
