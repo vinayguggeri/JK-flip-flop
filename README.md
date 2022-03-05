@@ -27,7 +27,7 @@ past output.These circuits are basic memory storage elements.There are different
 JK flip flop,D flip flop and T flip flop.The input and output to a JK flip flop are digital signals but the main aim <br />
 here is to design and simulate JK flip flop using mixed signals i.e. by using both analog and digital signals.<br />  
 ### 2. Reference Circuit Diagram
-![image](https://user-images.githubusercontent.com/96101971/156813610-83332660-f437-45dd-8c2f-720dc85cf4d7.png)
+![WhatsApp Image 2022-02-28 at 9 57 22 PM v1](https://user-images.githubusercontent.com/96101971/156883381-46db6116-076f-40c3-92b7-1e64f61933c8.jpg)
 ### 3. Reference Waveforms
 ![image](https://user-images.githubusercontent.com/96101971/156813892-d6778544-87d1-48c4-920d-f2d59fe77bc7.png)
 ### 4. Circuit Details
