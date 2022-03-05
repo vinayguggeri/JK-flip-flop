@@ -61,7 +61,7 @@ For more details Refer: http://ngspice.sourceforge.net/docs.html
 #### -Makerchip
 Makerchip is a platform which provides free and instant access to the latest tools from your browser and from <br />
 your desktop.<br />
-For mpore details Refer :https://www.makerchip.com/
+For more details Refer :https://www.makerchip.com/
 #### -Verilator
 Verilator converts verilog HDL to C++ or system C.<br />
 For more details on Veriltor Refer:https://www.veripool.org/verilator/
@@ -148,3 +148,7 @@ endmodule
    * 2.  Steve Hoover,Founder, Redwood EDA 
    * 3.  Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
    * 4.  Sumanto Kar,eSim Team,FOSSEE
+### 14. References
+    1. V. T. Phyne, Fundamentals of Digital Systems Design, NJ, Englewood Cliffs:Prentice-Hall, pp. 217-245, 1973.<br /> 
+    2. J. Millman and C. C. Halkias, Integrated Electronics: Analog and Digital Circuits and Systems, New York:McGraw-Hill, pp. 627-632, 1972.<br /> 
+    
