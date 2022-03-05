@@ -124,9 +124,9 @@ endmodule
 ### 12. Steps to Run this Project
    1. Open a new terminal<br />
    2. Clone this project using the following command:<br />
-      git clone https://github.com/vinayguggeri/JK-flip-flop.git<br />
+   ```git clone https://github.com/vinayguggeri/JK-flip-flop.git```<br />
    3. Change directory:<br />
-      cd esim-workspace/vinay_jk<br />
+   ```cd esim-workspace/vinay_jk```<br />
    4. Run ngspice:
       ngspice 
    6. 
