@@ -5,22 +5,21 @@
 #### 2.[Reference Circiut Diagram]()
 #### 3.[Reference Waveforms]()
 #### 4.[Circuit Details]()
-#### 5.[Truth Table]()
-#### 6.[Software Used]()
+#### 5.[Software Used]()
   #### -[eSim]()
   #### -[NgSpice]()
   #### -[Makerchip]()
   #### -[Verilator]()
-#### 7.[Circuit Diagram in eSim]()
-#### 8.[Verilog Code]()
-#### 9.[Makerchip]()
-#### 10.[Makerchip plots]()
-#### 11.[Netlists]()
-#### 12.[NgSpice Plots]()
-#### 13.[Steps to run generate NgVeri model]()
-#### 14.[Steps to run this project]()
-#### 15.[Acknowledgements]()
-#### 16.[References]()
+#### 6.[Circuit Diagram in eSim]()
+#### 7.[Verilog Code]()
+#### 8.[Makerchip]()
+####9.[Makerchip plots]()
+#### 10.[Netlists]()
+#### 11.[NgSpice Plots]()
+#### 12.[Steps to run generate NgVeri model]()
+#### 13.[Steps to run this project]()
+#### 14.[Acknowledgements]()
+#### 15.[References]()
 ### 1. Abstract
 Flip flops are the electronic devices which consists of two stable states.The flip flops are the fundamental building<br />
 blocks in digital electronics systems.These are sequential circuits since the output depends on both present input and <br />
@@ -48,18 +47,18 @@ The cross-coupling of the SR flip-flop permits the previous invalid condition of
 <br />
 At the input side of jk flip flop we use analog to digital converter(adc_bridge) and at the output side we use a digital to
 analog converter(dac_bridge).In this way we can design JK flip flop in mixed signals.<br />
-### 5. Truth Table
+<br />
 The truth table of JK flip flop is shown below:<br />
 ![image](https://user-images.githubusercontent.com/96101971/156820419-de9ed47e-0551-4f14-aeed-bb83b7493cad.png)
 <br />
-### 6. Software Used
+### 5. Software Used
 #### -eSim
 #### -NgSpice
 #### -Makerchip
 #### -Verilator
-### 7. Circuit Diagram in eSim
+### 6. Circuit Diagram in eSim
 The circuit diagram of JK flip flop using Mixed signals in eSim tool.<br />
 ![Screenshot (13)](https://user-images.githubusercontent.com/96101971/156823161-6d7e32e5-9721-480c-b3aa-cfafcdb55cdb.png)
-### 8. Verilog Code
+### 7. Verilog Code
 ![Screenshot (16)](https://user-images.githubusercontent.com/96101971/156823861-df41f654-4a56-45bb-b9e9-54d8578f0ef7.png)
-### 9. Makerchip
+### 8. Makerchip
