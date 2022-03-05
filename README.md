@@ -10,16 +10,15 @@
   #### -[NgSpice]()
   #### -[Makerchip]()
   #### -[Verilator]()
-#### 6.[Circuit Diagram in eSim]()
-#### 7.[Verilog Code]()
-#### 8.[Makerchip]()
-#### 9.[Makerchip plots]()
-#### 10.[Netlists]()
-#### 11.[NgSpice Plots]()
-#### 12.[Steps to run generate NgVeri model]()
-#### 13.[Steps to run this project]()
-#### 14.[Acknowledgements]()
-#### 15.[References]()
+#### 6. [Implementation of the circuit]()
+#### 7.[Makerchip]()
+#### 8.[Makerchip plots]()
+#### 9.[Netlists]()
+#### 10.[NgSpice Plots]()
+#### 11.[Steps to run generate NgVeri model]()
+#### 12.[Steps to run this project]()
+#### 13.[Acknowledgements]()
+#### 14.[References]()
 ### 1. Abstract
 Flip flops are the electronic devices which consists of two stable states.The flip flops are the fundamental building<br />
 blocks in digital electronics systems.These are sequential circuits since the output depends on both present input and <br />
@@ -56,12 +55,13 @@ The truth table of JK flip flop is shown below:<br />
 #### -NgSpice
 #### -Makerchip
 #### -Verilator
-### 6. Circuit Diagram in eSim
+### 6. Implementation of the circuit
+#### Circuit Diagram of JK flip flop in eSim
 The circuit diagram of JK flip flop using Mixed signals in eSim tool.<br />
 ![Screenshot (13)](https://user-images.githubusercontent.com/96101971/156823161-6d7e32e5-9721-480c-b3aa-cfafcdb55cdb.png)
-### 7. Verilog Code
+#### Verilog Code for JK flip flop
 ![Screenshot (16)](https://user-images.githubusercontent.com/96101971/156823861-df41f654-4a56-45bb-b9e9-54d8578f0ef7.png)
-### 8. Makerchip
+### 7. Makerchip
 ```\TLV_version 1d: tl-x.org
 \SV
 /* verilator lint_off UNUSED*/  /* verilator lint_off DECLFILENAME*/  /* verilator lint_off BLKSEQ*/  /* verilator lint_off WIDTH*/  /* verilator lint_off SELRANGE*/  /* verilator lint_off PINCONNECTEMPTY*/  /* verilator lint_off DEFPARAM*/  /* verilator lint_off IMPLICIT*/  /* verilator lint_off COMBDLY*/  /* verilator lint_off SYNCASYNCNET*/  /* verilator lint_off UNOPTFLAT */  /* verilator lint_off UNSIGNED*/  /* verilator lint_off CASEINCOMPLETE*/  /* verilator lint_off UNDRIVEN*/  /* verilator lint_off VARHIDDEN*/  /* verilator lint_off CASEX*/  /* verilator lint_off CASEOVERLAP*/  /* verilator lint_off PINMISSING*/  /* verilator lint_off LATCH*/  /* verilator lint_off BLKANDNBLK*/  /* verilator lint_off MULTIDRIVEN*/  /* verilator lint_off NULLPORT*/  /* verilator lint_off EOFNEWLINE*/  /* verilator lint_off WIDTHCONCAT*/  /* verilator lint_off ASSIGNDLY*/  /* verilator lint_off MODDUP*/  /* verilator lint_off STMTDLY*/  /* verilator lint_off LITENDIAN*/  /* verilator lint_off INITIALDLY*/  /* verilator lint_off TIMESCALEMOD*/  
@@ -106,9 +106,10 @@ qb=~q;
 \SV
 endmodule
 ````
-#### 9. Makerchip Plots
+#### 8. Makerchip Plots
 ![Screenshot (15)](https://user-images.githubusercontent.com/96101971/156872040-b5d4c26b-f2c3-40b5-91f5-f10f26fdb51b.png)
-#### 10. Netlists
+#### 9. Netlists
 ![image](https://user-images.githubusercontent.com/96101971/156872197-2ca2ffd2-513b-40f4-9a8c-96ad9e804715.png)
-#### 11. NgSpice plots
+#### 10. NgSpice plots
 ![ckt waveforms](https://user-images.githubusercontent.com/96101971/156872325-1139187b-34a1-444e-b308-09af2fd1ecd6.png)
+#### 11. Steps to run generate NgVeri model
