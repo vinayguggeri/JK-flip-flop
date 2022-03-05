@@ -13,7 +13,7 @@
 #### 6.[Circuit Diagram in eSim]()
 #### 7.[Verilog Code]()
 #### 8.[Makerchip]()
-####9.[Makerchip plots]()
+#### 9.[Makerchip plots]()
 #### 10.[Netlists]()
 #### 11.[NgSpice Plots]()
 #### 12.[Steps to run generate NgVeri model]()
@@ -104,4 +104,4 @@ qb=~q;
 \TLV
 //Add \TLV here if desired                                     
 \SV
-endmodule```
+endmodule
