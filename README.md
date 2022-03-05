@@ -149,6 +149,7 @@ endmodule
    * 3.  Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
    * 4.  Sumanto Kar,eSim Team,FOSSEE
 ### 14. References
-    1. V. T. Phyne, Fundamentals of Digital Systems Design, NJ, Englewood Cliffs:Prentice-Hall, pp. 217-245, 1973.<br /> 
-    2. J. Millman and C. C. Halkias, Integrated Electronics: Analog and Digital Circuits and Systems, New York:McGraw-Hill, pp. 627-632, 1972.<br /> 
+   * 1. V. T. Phyne, Fundamentals of Digital Systems Design, NJ, Englewood Cliffs:Prentice-Hall, pp. 217-245, 1973.<br /> 
+   * 2. J. Millman and C. C. Halkias, Integrated Electronics: Analog and Digital Circuits and Systems,<br /> 
+        New York:McGraw-Hill, pp. 627-632, 1972.
     
