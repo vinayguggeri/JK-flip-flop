@@ -49,7 +49,7 @@ At the input side of jk flip flop we use analog to digital converter(adc_bridge)
 analog converter(dac_bridge).In this way we can design JK flip flop in mixed signals.<br />
 <br />
 The truth table of JK flip flop is shown below:<br />
-![image](https://user-images.githubusercontent.com/96101971/156820419-de9ed47e-0551-4f14-aeed-bb83b7493cad.png)
+![truth table v1 (1)](https://user-images.githubusercontent.com/96101971/156883268-7974628a-3f9a-42a5-a20c-5a17a5532059.jpg)
 <br />
 ### 5. Software Used
 #### -eSim
