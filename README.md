@@ -108,3 +108,5 @@ endmodule
 ````
 #### 9. Makerchip Plots
 ![Screenshot (15)](https://user-images.githubusercontent.com/96101971/156872040-b5d4c26b-f2c3-40b5-91f5-f10f26fdb51b.png)
+#### 10. Netlists
+![image](https://user-images.githubusercontent.com/96101971/156872197-2ca2ffd2-513b-40f4-9a8c-96ad9e804715.png)
