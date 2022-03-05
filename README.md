@@ -57,7 +57,6 @@ The truth table of JK flip flop is shown below:<br />
 #### -Verilator
 ### 6. Implementation of the circuit
 #### Circuit Diagram of JK flip flop in eSim
-The circuit diagram of JK flip flop using Mixed signals in eSim tool.<br />
 ![Screenshot (13)](https://user-images.githubusercontent.com/96101971/156823161-6d7e32e5-9721-480c-b3aa-cfafcdb55cdb.png)
 #### Verilog Code for JK flip flop
 ![Screenshot (16)](https://user-images.githubusercontent.com/96101971/156823861-df41f654-4a56-45bb-b9e9-54d8578f0ef7.png)
@@ -106,10 +105,10 @@ qb=~q;
 \SV
 endmodule
 ````
-#### 8. Makerchip Plots
+### 8. Makerchip Plots
 ![Screenshot (15)](https://user-images.githubusercontent.com/96101971/156872040-b5d4c26b-f2c3-40b5-91f5-f10f26fdb51b.png)
-#### 9. Netlists
+### 9. Netlists
 ![image](https://user-images.githubusercontent.com/96101971/156872197-2ca2ffd2-513b-40f4-9a8c-96ad9e804715.png)
-#### 10. NgSpice plots
+### 10. NgSpice plots
 ![ckt waveforms](https://user-images.githubusercontent.com/96101971/156872325-1139187b-34a1-444e-b308-09af2fd1ecd6.png)
-#### 11. Steps to run generate NgVeri model
+### 11. Steps to run generate NgVeri model
