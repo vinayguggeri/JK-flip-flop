@@ -112,3 +112,12 @@ endmodule
 ### 10. NgSpice plots
 ![ckt waveforms](https://user-images.githubusercontent.com/96101971/156872325-1139187b-34a1-444e-b308-09af2fd1ecd6.png)
 ### 11. Steps to run generate NgVeri model
+   1.Open eSim tool
+   2.Click on Makerchip and run NgVeri-Makerchip
+   3.Add top level verilog model file in Makerchip tab
+   4.Simulate the verilog code 
+   5.Click on NgVeri tab 
+   6.Add dependency files
+   7.Click on run Verilog to NgSpice Converter
+   8.Debug if any errors are there
+   9.Model is created successfully
