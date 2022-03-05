@@ -52,9 +52,19 @@ The truth table of JK flip flop is shown below:<br />
 <br />
 ### 5. Software Used
 #### -eSim
+eSim is an open source EDA tool for circuit design,analysis and PCB design.It is an integrated tool built using<br />
+open source software such as KiCad and NgSpice.
+For more details on eSim Refer: [https://esim.fossee.in/home]
 #### -NgSpice
+It is an open source software for Spice simulation.
+For more details Refer: [http://ngspice.sourceforge.net/docs.html]
 #### -Makerchip
+Makerchip is a platform which provides free and instant access to the latest tools from your browser and from <br />
+your desktop.
+For mpore details Refer :[https://www.makerchip.com/]
 #### -Verilator
+Verilator converts verilog HDL to C++ or system C.
+For more details on Veriltor Refer:[https://www.veripool.org/verilator/]
 ### 6. Implementation of the circuit
 #### Circuit Diagram of JK flip flop in eSim
 ![Screenshot (13)](https://user-images.githubusercontent.com/96101971/156823161-6d7e32e5-9721-480c-b3aa-cfafcdb55cdb.png)
@@ -134,7 +144,7 @@ endmodule
       - Load the project<br /> 
       - Open eeSchema<br /> 
 ### 13. Acknowlegdements
-    1. FOSSEE, IIT Bombay
-    2. Steve Hoover,Founder, Redwood EDA 
-    3. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
-    4. Sumanto Kar,eSim Team,FOSSEE
+    1. * FOSSEE, IIT Bombay
+    2. * Steve Hoover,Founder, Redwood EDA 
+    3. * Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
+    4. * Sumanto Kar,eSim Team,FOSSEE
