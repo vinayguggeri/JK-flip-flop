@@ -144,12 +144,12 @@ endmodule
       - Load the project<br /> 
       - Open eeSchema<br /> 
 ### 13. Acknowlegdements
-   * 1. FOSSEE, IIT Bombay
-   * 2.  Steve Hoover,Founder, Redwood EDA 
-   * 3.  Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
-   * 4.  Sumanto Kar,eSim Team,FOSSEE
+   *  FOSSEE, IIT Bombay
+   *  Steve Hoover,Founder, Redwood EDA 
+   *  Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
+   *  Sumanto Kar,eSim Team,FOSSEE
 ### 14. References
-   * 1. V. T. Phyne, Fundamentals of Digital Systems Design, NJ, Englewood Cliffs:Prentice-Hall, pp. 217-245, 1973.<br /> 
-   * 2. J. Millman and C. C. Halkias, Integrated Electronics: Analog and Digital Circuits and Systems,<br /> 
+   *  V. T. Phyne, Fundamentals of Digital Systems Design, NJ, Englewood Cliffs:Prentice-Hall, pp. 217-245, 1973.<br /> 
+   *  J. Millman and C. C. Halkias, Integrated Electronics: Analog and Digital Circuits and Systems,<br /> 
         New York:McGraw-Hill, pp. 627-632, 1972.
     
