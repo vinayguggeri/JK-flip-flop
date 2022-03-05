@@ -134,7 +134,7 @@ endmodule
       - Load the project<br /> 
       - Open eeSchema<br /> 
 ### 13. Acknowlegdements
-       1. FOSSEE, IIT Bombay<br /> 
-       2. Steve Hoover,Founder, Redwood EDA<br /> 
-       3. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.<br /> 
+       1. FOSSEE, IIT Bombay
+       2. Steve Hoover,Founder, Redwood EDA 
+       3. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
        4. Sumanto Kar,eSim Team,FOSSEE
