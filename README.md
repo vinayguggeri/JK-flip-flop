@@ -19,6 +19,7 @@
 #### 12.[Steps to run this project]()
 #### 13.[Acknowledgements]()
 #### 14.[References]()
+#### 15.[Author]()
 ### 1. Abstract
 Flip flops are the electronic devices which consists of two stable states.The flip flops are the fundamental building<br />
 blocks in digital electronics systems.These are sequential circuits since the output depends on both present input and <br />
@@ -151,5 +152,8 @@ endmodule
 ### 14. References
    *  V. T. Phyne, Fundamentals of Digital Systems Design, NJ, Englewood Cliffs:Prentice-Hall, pp. 217-245, 1973.<br /> 
    *  J. Millman and C. C. Halkias, Integrated Electronics: Analog and Digital Circuits and Systems,<br /> 
-        New York:McGraw-Hill, pp. 627-632, 1972.
-    
+        New York:McGraw-Hill, pp. 627-632, 1972.<br /> 
+   *  https://www.javatpoint.com/jk-flip-flop-in-digital-electronics	
+### 15. Author
+   G VINAY KUMAR,6th SEM BE(ECE), SDM COLLEGE OF ENGINEERING AND TECHNOLOGY,DHARWAD,580002.<br />
+   * Contact: [vinaykumarg936@gmail.com]
