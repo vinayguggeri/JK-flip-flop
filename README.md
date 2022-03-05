@@ -121,3 +121,12 @@ endmodule
    7. Click on run Verilog to NgSpice Converter<br />
    8. Debug if any errors are there<br />
    9. Model is created successfully<br />
+### 12. Steps to Run this Project
+   1. Open a new terminal<br />
+   2. Clone this project using the following command:<br />
+      git clone https://github.com/vinayguggeri/JK-flip-flop.git<br />
+   3. Change directory:<br />
+      cd esim-workspace/vinay_jk<br />
+   4. Run ngspice:
+      ngspice 
+   6. 
