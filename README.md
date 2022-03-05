@@ -127,6 +127,9 @@ endmodule
    ```git clone https://github.com/vinayguggeri/JK-flip-flop.git```<br />
    3. Change directory:<br />
    ```cd esim-workspace/vinay_jk```<br />
-   4. Run ngspice:
-      ngspice 
-   6. 
+   4. Run ngspice:<br />
+   ```ngspice vinay_jk.cir.out```<br /> 
+   5. To run the project in eSim:<br /> 
+      - Run eSim<br /> 
+      - Load the project<br /> 
+      - Open eeSchema<br /> 
