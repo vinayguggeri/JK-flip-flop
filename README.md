@@ -29,7 +29,7 @@ here is to design and simulate JK flip flop using mixed signals i.e. by using bo
 ### 2. Reference Circuit Diagram
 ![WhatsApp Image 2022-02-28 at 9 57 22 PM v1 (1)](https://user-images.githubusercontent.com/96101971/156883575-05f13deb-72bd-4dbc-8d24-830a7154bde6.jpg)
 ### 3. Reference Waveforms
-![image](https://user-images.githubusercontent.com/96101971/156813892-d6778544-87d1-48c4-920d-f2d59fe77bc7.png)
+![waveeee v1](https://user-images.githubusercontent.com/96101971/156883624-a2795472-1634-4b0c-93c5-4646202b8fd8.jpg)
 ### 4. Circuit Details
 The JK flip flop was invented by Jack Kilby and hence the name JK flip flop.It is the most widely used flip flop.<br />
 This flipflop is also called as universal flip flop.The sequential operation of JK flip flop is same as that of<br />
